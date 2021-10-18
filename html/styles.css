@@ -20,7 +20,7 @@
 
 #money {
   text-align: right;
-  color: #e100ff;
+  color: #ff00ff;
 }
 
 #money-minus {
@@ -88,7 +88,7 @@
   text-transform: Impact;
   bottom: 0vh;
   left: 47.10vw;
-  color: #f22dba;
+  color: #ff00ff;
 }
 
 /* Animation */
