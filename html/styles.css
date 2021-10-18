@@ -20,22 +20,22 @@
 
 #money {
   text-align: right;
-  color: #28a745;
+  color: #e100ff;
 }
 
 #money-minus {
   text-align: right;
-  color: red;
+  color: rgb(255, 0, 191);
 }
 
 #cash,
 #bank,
 #plus {
-  color: #ededed;
+  color: #ff00ff;
 }
 
 #minus {
-  color: red;
+  color: rgb(204, 0, 255);
 }
 
 /* Player HUD */
@@ -43,8 +43,8 @@
 #playerhud {
   display: flex;
   position: absolute;
-  bottom: 0vw;
-  left: 1.5vh;
+  bottom: 01vw;
+  left: 9.9vh;
 }
 
 /* Vehicle HUD */
@@ -59,13 +59,13 @@
 }
 
 .ui-car-speed {
-  bottom: 4vh;
-  left: 16vw;
+  bottom: 5vh;
+  left: 50.1vw;
 }
 
 .ui-car-fuel {
-  left: 18.9vw;
-  bottom: 1.9vw;
+  left: 48.3vw;
+  bottom: 2.5vw;
 }
 
 .ui-car-nos {
@@ -74,21 +74,21 @@
 }
 
 .ui-car-seatbelt {
-  left: 19.1vw;
-  bottom: 3.56vw;
+  right: 44.5vw;
+  bottom: 2.9vw;
 }
 
 .ui-car-cruise {
-  left: 18.3vw;
-  bottom: 8.7vh;
+  right: 44.8vw;
+  bottom: 9.0vh;
 }
 
 .ui-car-street {
-  font-size: 15px;
-  text-transform: uppercase;
+  font-size: 20px;
+  text-transform: Impact;
   bottom: 0vh;
-  left: 16.5vw;
-  color: #ededed;
+  left: 47.10vw;
+  color: #f22dba;
 }
 
 /* Animation */
